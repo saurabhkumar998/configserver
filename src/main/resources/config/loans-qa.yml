@@ -1,8 +1,0 @@
-loans:
-  message: "Welcome to Bank loans related QA APIs "
-  contactDetails:
-    name: "Chris Green - Developer"
-    email: "chris@bank.com"
-  onCallSupport:
-    - 912323211123
-    - 9821244425433
