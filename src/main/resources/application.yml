@@ -7,8 +7,6 @@ spring:
   cloud:
     config:
       server:
-#        native:
-#          search-locations: "classpath:/config"
         git:
           uri: "https://github.com/saurabhkumar998/bank-config.git"
           default-label: main
