@@ -25,3 +25,10 @@ encrypt:
 
 server:
   port: 8071
+
+management:
+  endpoints:
+     web:
+      exposure:
+          # * means we've exposed all our actuator endpoints
+        include: "*"
